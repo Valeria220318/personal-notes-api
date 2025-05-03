@@ -1,0 +1,30 @@
+[
+    {
+        "id": "6815b7f2aed87",
+        "fecha": "2025-05-03 08:30:10"
+    },
+    {
+        "titulo": "Ejemplo de nota",
+        "autor": "Ana",
+        "cuerpo": "Esta es una nota de prueba para crear.",
+        "clasificacion": "personal",
+        "id": "6815b82c11f92",
+        "fecha": "2025-05-03 08:31:08"
+    },
+    {
+        "titulo": "Ejemplo de nota",
+        "autor": "Ana",
+        "cuerpo": "Esta es una nota de prueba para crear.",
+        "clasificacion": "personal",
+        "id": "6815b863a1fa2",
+        "fecha": "2025-05-03 08:32:03"
+    },
+    {
+        "titulo": "Ejemplo de nota",
+        "autor": "Ana",
+        "cuerpo": "Esta es una nota de prueba para crear.",
+        "clasificacion": "personal",
+        "id": "6815b9fec036e",
+        "fecha": "2025-05-03 08:38:54"
+    }
+]
